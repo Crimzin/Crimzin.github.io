@@ -1,0 +1,103 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f7f7f7;
+    /*background-color: teal;*/
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+
+.line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 4px;
+}
+h1 {
+    text-align: center;
+}
+
+.carousel .item {
+    height: 300px;
+}
+
+.carousel .item.carousal-word{
+    background-color: #761c19;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+
+
+header .navbar-default {
+    background-color: transparent;
+    border: none;
+}
+
+header .navbar-default .navbar-nav a {
+    color: teal;
+    padding: 5px 8px;
+    font-size: 14px;
+}
+
+.footer{
+    background-color: #4db6ac;
+
+}
+
+footer div h1 {
+    font-size: 30px;
+    /*color:#fafafa;*/
+    color: #fafafa;
+}
+
+footer div .titans-who{
+    background-color: #761c19;
+}
+
+#stacked-bar-chart-info {
+    background-color: #E4D29D;
+}
+
+#line-chart-info {
+    background-color: #b9f6ca ;
+}
+
+
+footer h3 {
+    color: #fafafa;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    height: 28px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+
+
+/*h1 {*/
+    /*color: #4db6ac;*/
+/*}*/

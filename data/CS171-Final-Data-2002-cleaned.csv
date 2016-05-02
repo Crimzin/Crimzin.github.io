@@ -1,0 +1,715 @@
+industry,industry-label,race,race-label,gender,gender-label,year,firms,revenue,firms-with-paid,revenue-with-paid,employees,payroll
+0,Total for all sectors,0,All firms,0,All firms,2002,22974655,22603658904,5524784,21836249354,110766605,3812427806
+0,Total for all sectors,0,All firms,1,Female-owned,2002,6489259,939538208,916657,802851495,7141369,173528707
+0,Total for all sectors,0,All firms,2,Male-owned,2002,13184033,7061026736,3524969,6564052308,42428508,1319884315
+0,Total for all sectors,0,All firms,3,Equally male-/female-owned,2002,2693360,731678703,717961,627202424,5664948,129700997
+0,Total for all sectors,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,494399,13820117758,352720,13796996645,55398389,2185642376
+0,Total for all sectors,20,Hispanic or Latino,0,All firms,2002,1573464,221927425,199542,179507959,1536795,36711718
+0,Total for all sectors,20,Hispanic or Latino,1,Female-owned,2002,540745,35265399,43142,25726727,282683,6182203
+0,Total for all sectors,20,Hispanic or Latino,2,Male-owned,2002,921183,168061827,136832,139486041,1113277,27852670
+0,Total for all sectors,20,Hispanic or Latino,3,Equally male-/female-owned,2002,111536,18600200,19568,14295191,140835,2676846
+0,Total for all sectors,29,Not Hispanic or Latino,0,All firms,2002,20793392,8513041720,4960246,7817322558,53715090,1587112775
+0,Total for all sectors,29,Not Hispanic or Latino,1,Female-owned,2002,5948514,904272809,873516,777124768,6858685,167346504
+0,Total for all sectors,29,Not Hispanic or Latino,2,Male-owned,2002,12262850,6892964909,3388137,6424566267,41315231,1292031645
+0,Total for all sectors,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,2581824,713078503,698393,612907232,5524113,127024152
+0,Total for all sectors,30,White,0,All firms,2002,19899839,8277812084,4712119,7603717868,51966004,1541628880
+0,Total for all sectors,30,White,1,Female-owned,2002,5580162,862590849,815304,742669201,6513446,159143666
+0,Total for all sectors,30,White,2,Male-owned,2002,11919062,6744147278,3251897,6283931978,40308302,1262596201
+0,Total for all sectors,30,White,3,Equally male-/female-owned,2002,2400622,671073957,644926,577116690,5144257,119889014
+0,Total for all sectors,40,Black or African American,0,All firms,2002,1197567,88641608,94518,65799425,753978,17550064
+0,Total for all sectors,40,Black or African American,1,Female-owned,2002,547032,20670616,27027,12975918,176436,3911432
+0,Total for all sectors,40,Black or African American,2,Male-owned,2002,571501,61562301,58054,48213424,492341,12173348
+0,Total for all sectors,40,Black or African American,3,Equally male-/female-owned,2002,79034,6408691,9437,4610083,85201,1465284
+0,Total for all sectors,50,American Indian and Alaska Native,0,All firms,2002,201387,26872947,24498,21986696,191270,5135273
+0,Total for all sectors,50,American Indian and Alaska Native,1,Female-owned,2002,78292,5763268,7372,4409219,49406,1102515
+0,Total for all sectors,50,American Indian and Alaska Native,2,Male-owned,2002,116408,17734650,15939,14391110,119239,3222438
+0,Total for all sectors,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,6477,649530,980,462077,5565,99846
+0,Total for all sectors,60,Asian,0,All firms,2002,1103587,326663445,319468,291162771,2213948,56044960
+0,Total for all sectors,60,Asian,1,Female-owned,2002,339554,53652929,71177,44960347,425024,9957511
+0,Total for all sectors,60,Asian,2,Male-owned,2002,640363,234428718,203504,213000919,1485834,40531219
+0,Total for all sectors,60,Asian,3,Equally male-/female-owned,2002,123670,38581797,44787,33201506,303089,5556230
+0,Total for all sectors,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,28948,4279591,3693,3502157,29319,826217
+0,Total for all sectors,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,10582,795963,837,620578,7395,148814
+0,Total for all sectors,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,16178,3262888,2690,2786672,20421,653316
+0,Total for all sectors,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,2188,220739,S,S,S,S
+0,Total for all sectors,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,494399,13820117758,352720,13796996645,55398389,2185642376
+11(203),"Agriculture, forestry, fishing and hunting(203)",0,All firms,0,All firms,2002,249290,33899648,29250,24906061,250838,5762932
+11(203),"Agriculture, forestry, fishing and hunting(203)",0,All firms,1,Female-owned,2002,24401,2038935,2630,1374943,24296,352322
+11(203),"Agriculture, forestry, fishing and hunting(203)",0,All firms,2,Male-owned,2002,176914,21537736,19638,15112748,154645,3566137
+11(203),"Agriculture, forestry, fishing and hunting(203)",0,All firms,3,Equally male-/female-owned,2002,40077,4402361,5252,2793281,32316,583450
+11(203),"Agriculture, forestry, fishing and hunting(203)",0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,2647,5900100,1759,5829049,36943,1293465
+11(203),"Agriculture, forestry, fishing and hunting(203)",20,Hispanic or Latino,0,All firms,2002,9710,1303614,1156,1086655,40782,442650
+11(203),"Agriculture, forestry, fishing and hunting(203)",20,Hispanic or Latino,1,Female-owned,2002,954,211740,148,D,j,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",20,Hispanic or Latino,2,Male-owned,2002,7849,963899,834,789518,23918,325431
+11(203),"Agriculture, forestry, fishing and hunting(203)",20,Hispanic or Latino,3,Equally male-/female-owned,2002,907,127976,174,D,i,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",29,Not Hispanic or Latino,0,All firms,2002,231686,26711638,26367,18230536,170603,4066279
+11(203),"Agriculture, forestry, fishing and hunting(203)",29,Not Hispanic or Latino,1,Female-owned,2002,23447,1827196,2481,D,j,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",29,Not Hispanic or Latino,2,Male-owned,2002,169065,20573837,18804,14323231,130726,3240706
+11(203),"Agriculture, forestry, fishing and hunting(203)",29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,39171,4274385,5079,D,k,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",30,White,0,All firms,2002,226421,26871312,26648,18651576,205633,4373846
+11(203),"Agriculture, forestry, fishing and hunting(203)",30,White,1,Female-owned,2002,22724,1894752,2492,D,j,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",30,White,2,Male-owned,2002,166418,20832165,19116,14753267,151040,3486113
+11(203),"Agriculture, forestry, fishing and hunting(203)",30,White,3,Equally male-/female-owned,2002,37280,4144394,5040,D,k,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",40,Black or African American,0,All firms,2002,3724,230376,349,127441,1842,24829
+11(203),"Agriculture, forestry, fishing and hunting(203)",40,Black or African American,1,Female-owned,2002,348,D,36,D,c,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",40,Black or African American,2,Male-owned,2002,3058,188473,300,98936,1317,19505
+11(203),"Agriculture, forestry, fishing and hunting(203)",40,Black or African American,3,Equally male-/female-owned,2002,319,D,S,D,e,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",50,American Indian and Alaska Native,0,All firms,2002,4594,205165,157,108398,906,24154
+11(203),"Agriculture, forestry, fishing and hunting(203)",50,American Indian and Alaska Native,1,Female-owned,2002,S,D,S,D,f,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",50,American Indian and Alaska Native,2,Male-owned,2002,3318,D,76,D,e,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,464,D,S,S,S,S
+11(203),"Agriculture, forestry, fishing and hunting(203)",60,Asian,0,All firms,2002,6261,490646,224,237379,1147,43828
+11(203),"Agriculture, forestry, fishing and hunting(203)",60,Asian,1,Female-owned,2002,630,81247,35,D,c,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",60,Asian,2,Male-owned,2002,4956,360635,123,161849,835,30023
+11(203),"Agriculture, forestry, fishing and hunting(203)",60,Asian,3,Equally male-/female-owned,2002,675,48764,66,D,b,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,540,14715,S,S,S,S
+11(203),"Agriculture, forestry, fishing and hunting(203)",70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,63,D,1,D,a,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,320,D,S,D,b,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,S,D,S,D,a,D
+11(203),"Agriculture, forestry, fishing and hunting(203)",98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,2647,5900100,1759,5829049,36943,1293465
+21,Mining ,0,All firms,0,All firms,2002,102029,255217557,19324,250294315,534472,25233869
+21,Mining ,0,All firms,1,Female-owned,2002,13231,3127501,1646,2712943,15910,596372
+21,Mining ,0,All firms,2,Male-owned,2002,66764,44592773,13684,41255780,174963,6900884
+21,Mining ,0,All firms,3,Equally male-/female-owned,2002,18235,3545611,2320,2555915,14931,543661
+21,Mining ,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,3567,202651938,1741,202405638,328118,17125379
+21,Mining ,20,Hispanic or Latino,0,All firms,2002,1473,718895,280,669200,3142,108175
+21,Mining ,20,Hispanic or Latino,1,Female-owned,2002,402,D,S,D,e,D
+21,Mining ,20,Hispanic or Latino,2,Male-owned,2002,1036,605915,S,D,g,D
+21,Mining ,20,Hispanic or Latino,3,Equally male-/female-owned,2002,35,D,S,D,e,D
+21,Mining ,29,Not Hispanic or Latino,0,All firms,2002,96760,50828684,17372,46136515,205182,8070949
+21,Mining ,29,Not Hispanic or Latino,1,Female-owned,2002,12829,D,1623,D,j,D
+21,Mining ,29,Not Hispanic or Latino,2,Male-owned,2002,65727,43986858,13457,D,m,D
+21,Mining ,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,18201,D,2290,D,j,D
+21,Mining ,30,White,0,All firms,2002,96614,50620995,17367,45930081,203037,7924903
+21,Mining ,30,White,1,Female-owned,2002,13029,3087833,1623,D,j,D
+21,Mining ,30,White,2,Male-owned,2002,65685,44059466,13458,40759113,172727,6807830
+21,Mining ,30,White,3,Equally male-/female-owned,2002,17900,3473696,2285,D,j,D
+21,Mining ,40,Black or African American,0,All firms,2002,325,57471,S,S,S,S
+21,Mining ,40,Black or African American,1,Female-owned,2002,77,D,S,D,a,D
+21,Mining ,40,Black or African American,2,Male-owned,2002,233,D,S,D,f,D
+21,Mining ,40,Black or African American,3,Equally male-/female-owned,2002,15,D,S,D,a,D
+21,Mining ,50,American Indian and Alaska Native,0,All firms,2002,1028,482392,170,415410,3421,174184
+21,Mining ,50,American Indian and Alaska Native,1,Female-owned,2002,S,D,S,D,c,D
+21,Mining ,50,American Indian and Alaska Native,2,Male-owned,2002,912,D,152,D,f,D
+21,Mining ,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,17,D,S,D,b,D
+21,Mining ,60,Asian,0,All firms,2002,456,213054,59,200716,730,31796
+21,Mining ,60,Asian,1,Female-owned,2002,95,D,14,D,c,D
+21,Mining ,60,Asian,2,Male-owned,2002,327,176731,43,D,f,D
+21,Mining ,60,Asian,3,Equally male-/female-owned,2002,34,D,2,D,b,D
+21,Mining ,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,103,7173,S,S,S,S
+21,Mining ,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,102,D,S,D,a,D
+21,Mining ,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,1,D,1,D,a,D
+21,Mining ,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,0,0,0,0,0,0
+21,Mining ,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,3567,202651938,1741,202405638,328118,17125379
+22,Utilities,0,All firms,0,All firms,2002,18896,427737400,6223,427188569,672288,43766858
+22,Utilities,0,All firms,1,Female-owned,2002,2066,744575,302,697530,1918,67038
+22,Utilities,0,All firms,2,Male-owned,2002,10715,11060873,2161,10706463,17119,854239
+22,Utilities,0,All firms,3,Equally male-/female-owned,2002,2027,817230,391,758848,3673,175728
+22,Utilities,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,3928,414290350,3285,414217605,651138,42687248
+22,Utilities,20,Hispanic or Latino,0,All firms,2002,717,41459,25,26687,110,2079
+22,Utilities,20,Hispanic or Latino,1,Female-owned,2002,171,D,1,D,a,D
+22,Utilities,20,Hispanic or Latino,2,Male-owned,2002,494,D,23,D,c,D
+22,Utilities,20,Hispanic or Latino,3,Equally male-/female-owned,2002,52,D,S,D,a,D
+22,Utilities,29,Not Hispanic or Latino,0,All firms,2002,14101,12598283,2839,12153218,22641,1096368
+22,Utilities,29,Not Hispanic or Latino,1,Female-owned,2002,1896,D,301,D,g,D
+22,Utilities,29,Not Hispanic or Latino,2,Male-owned,2002,10220,D,2138,D,j,D
+22,Utilities,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,1975,D,390,D,h,D
+22,Utilities,30,White,0,All firms,2002,13778,D,2762,12023141,22204,1077876
+22,Utilities,30,White,1,Female-owned,2002,1750,D,277,D,g,D
+22,Utilities,30,White,2,Male-owned,2002,10145,10931036,2107,10589230,16830,841703
+22,Utilities,30,White,3,Equally male-/female-owned,2002,1884,D,378,D,h,D
+22,Utilities,40,Black or African American,0,All firms,2002,506,95846,32,86201,132,7324
+22,Utilities,40,Black or African American,1,Female-owned,2002,104,D,0,0,0,0
+22,Utilities,40,Black or African American,2,Male-owned,2002,348,D,32,86201,132,7324
+22,Utilities,40,Black or African American,3,Equally male-/female-owned,2002,55,D,0,0,0,0
+22,Utilities,50,American Indian and Alaska Native,0,All firms,2002,287,31834,25,26854,81,3365
+22,Utilities,50,American Indian and Alaska Native,1,Female-owned,2002,167,D,0,0,0,0
+22,Utilities,50,American Indian and Alaska Native,2,Male-owned,2002,105,D,12,D,b,D
+22,Utilities,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,S,D,S,D,a,D
+22,Utilities,60,Asian,0,All firms,2002,225,36739,41,31172,256,6076
+22,Utilities,60,Asian,1,Female-owned,2002,S,D,S,D,c,D
+22,Utilities,60,Asian,2,Male-owned,2002,144,D,16,D,c,D
+22,Utilities,60,Asian,3,Equally male-/female-owned,2002,S,D,S,S,S,S
+22,Utilities,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,1,D,0,0,0,0
+22,Utilities,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,1,D,0,0,0,0
+22,Utilities,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,0,0,0,0,0,0
+22,Utilities,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,0,0,0,0,0,0
+22,Utilities,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,3928,414290350,3285,414217605,651138,42687248
+23,Construction,0,All firms,0,All firms,2002,2780323,1327132807,729842,1211895095,7003367,252701652
+23,Construction,0,All firms,1,Female-owned,2002,201784,68422913,51700,62366202,455785,15976851
+23,Construction,0,All firms,2,Male-owned,2002,2285545,946598707,563736,847478795,4999901,179578516
+23,Construction,0,All firms,3,Equally male-/female-owned,2002,276873,94265944,90642,79874591,576182,18129528
+23,Construction,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,28732,225631966,23522,224610069,1028384,39840857
+23,Construction,20,Hispanic or Latino,0,All firms,2002,212502,31445557,25146,22661856,190082,5279670
+23,Construction,20,Hispanic or Latino,1,Female-owned,2002,15025,2837311,2282,2397656,22060,627739
+23,Construction,20,Hispanic or Latino,2,Male-owned,2002,183961,26180371,20621,18620867,152201,4335115
+23,Construction,20,Hispanic or Latino,3,Equally male-/female-owned,2002,13516,2427875,2244,1643333,15822,316816
+23,Construction,29,Not Hispanic or Latino,0,All firms,2002,2551715,1078344428,680948,967560153,5844313,208494151
+23,Construction,29,Not Hispanic or Latino,1,Female-owned,2002,186758,65585602,49418,59968546,433725,15349112
+23,Construction,29,Not Hispanic or Latino,2,Male-owned,2002,2101584,920418337,543115,828857928,4847701,175243402
+23,Construction,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,263356,91838069,88398,78231258,560360,17812712
+23,Construction,30,White,0,All firms,2002,2628288,1084747498,685941,969862690,5900852,209416283
+23,Construction,30,White,1,Female-owned,2002,186057,65281225,49626,59654985,438412,15342488
+23,Construction,30,White,2,Male-owned,2002,2176607,927412435,547826,831958542,4901213,176296123
+23,Construction,30,White,3,Equally male-/female-owned,2002,265624,92053838,88490,78249164,561227,17777672
+23,Construction,40,Black or African American,0,All firms,2002,75026,9631757,8729,7503588,55136,1717662
+23,Construction,40,Black or African American,1,Female-owned,2002,8772,1120189,601,895373,6325,234126
+23,Construction,40,Black or African American,2,Male-owned,2002,62796,7972702,7657,6230618,45631,1407087
+23,Construction,40,Black or African American,3,Equally male-/female-owned,2002,3458,538866,470,377597,3179,76449
+23,Construction,50,American Indian and Alaska Native,0,All firms,2002,32253,6054570,4832,4865541,31340,1071804
+23,Construction,50,American Indian and Alaska Native,1,Female-owned,2002,3734,976422,795,832571,4940,173566
+23,Construction,50,American Indian and Alaska Native,2,Male-owned,2002,28028,4496620,3949,3471636,23390,797226
+23,Construction,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,475,79108,71,58914,483,12085
+23,Construction,60,Asian,0,All firms,2002,38787,9714754,7390,8129332,46850,1664551
+23,Construction,60,Asian,1,Female-owned,2002,4872,1339375,1061,1241865,8163,288277
+23,Construction,60,Asian,2,Male-owned,2002,31736,7822827,5875,6467943,36393,1280524
+23,Construction,60,Asian,3,Equally male-/female-owned,2002,2179,552551,453,419524,2294,95750
+23,Construction,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,2853,906330,S,S,S,S
+23,Construction,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,272,119227,S,S,S,S
+23,Construction,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,2527,763867,S,S,S,S
+23,Construction,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,53,23235,S,S,S,S
+23,Construction,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,28732,225631966,23522,224610069,1028384,39840857
+31-33,Manufacturing,0,All firms,0,All firms,2002,601181,4030755121,310821,4017355544,14992682,590275113
+31-33,Manufacturing,0,All firms,1,Female-owned,2002,110345,93167808,39939,91285850,636328,20385627
+31-33,Manufacturing,0,All firms,2,Male-owned,2002,371776,895565622,210790,887329471,5493249,187648104
+31-33,Manufacturing,0,All firms,3,Equally male-/female-owned,2002,81243,58993089,39103,57007626,440069,13674366
+31-33,Manufacturing,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,20927,2980147052,19738,2979971749,8394678,368461357
+31-33,Manufacturing,20,Hispanic or Latino,0,All firms,2002,30944,17964766,10356,17245348,125430,3738693
+31-33,Manufacturing,20,Hispanic or Latino,1,Female-owned,2002,8307,2902150,2004,2763134,18506,539000
+31-33,Manufacturing,20,Hispanic or Latino,2,Male-owned,2002,20049,13950738,7226,13437688,95609,2916492
+31-33,Manufacturing,20,Hispanic or Latino,3,Equally male-/female-owned,2002,2588,1111878,1126,1044527,11316,283200
+31-33,Manufacturing,29,Not Hispanic or Latino,0,All firms,2002,532430,1030264407,279486,1018880252,6444902,218000390
+31-33,Manufacturing,29,Not Hispanic or Latino,1,Female-owned,2002,102039,90265658,37936,88522717,617822,19846627
+31-33,Manufacturing,29,Not Hispanic or Latino,2,Male-owned,2002,351727,881614884,203564,873891783,5397640,184731612
+31-33,Manufacturing,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,78655,57881211,37977,55963099,428753,13391166
+31-33,Manufacturing,30,White,0,All firms,2002,524087,1012681625,274107,1001403741,6344896,214818057
+31-33,Manufacturing,30,White,1,Female-owned,2002,98641,89388924,36728,87699548,604461,19516684
+31-33,Manufacturing,30,White,2,Male-owned,2002,350146,867769664,200878,860020998,5327792,182424303
+31-33,Manufacturing,30,White,3,Equally male-/female-owned,2002,75301,55523038,36502,53683195,412643,12877071
+31-33,Manufacturing,40,Black or African American,0,All firms,2002,10083,4646984,2075,4456279,30578,1021580
+31-33,Manufacturing,40,Black or African American,1,Female-owned,2002,3492,533577,330,484186,4769,211437
+31-33,Manufacturing,40,Black or African American,2,Male-owned,2002,5709,3864158,1508,3737063,24293,765107
+31-33,Manufacturing,40,Black or African American,3,Equally male-/female-owned,2002,882,249249,237,235030,1517,45035
+31-33,Manufacturing,50,American Indian and Alaska Native,0,All firms,2002,6004,3125239,1385,3015865,19980,657161
+31-33,Manufacturing,50,American Indian and Alaska Native,1,Female-owned,2002,1994,D,423,D,h,D
+31-33,Manufacturing,50,American Indian and Alaska Native,2,Male-owned,2002,3622,D,912,D,j,D
+31-33,Manufacturing,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,377,D,S,D,c,D
+31-33,Manufacturing,60,Asian,0,All firms,2002,23719,26434073,11847,25923644,169863,5115010
+31-33,Manufacturing,60,Asian,1,Female-owned,2002,7305,3004149,2644,2871641,26427,699057
+31-33,Manufacturing,60,Asian,2,Male-owned,2002,13689,21151385,7578,20835326,124009,3858627
+31-33,Manufacturing,60,Asian,3,Equally male-/female-owned,2002,2725,2278539,1625,2216677,19428,557325
+31-33,Manufacturing,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,324,184085,84,176955,1478,45359
+31-33,Manufacturing,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,S,D,S,D,e,D
+31-33,Manufacturing,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,234,D,62,D,g,D
+31-33,Manufacturing,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,24,D,S,D,b,D
+31-33,Manufacturing,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,20927,2980147052,19738,2979971749,8394678,368461357
+42,Wholesale trade,0,All firms,0,All firms,2002,711083,4779478157,347319,4749457421,6000860,266671228
+42,Wholesale trade,0,All firms,1,Female-owned,2002,121357,210405365,41752,206289501,377716,12811784
+42,Wholesale trade,0,All firms,2,Male-owned,2002,456888,1473304205,239194,1452351793,2873832,115559016
+42,Wholesale trade,0,All firms,3,Equally male-/female-owned,2002,94559,121778329,43244,116667026,317394,10456022
+42,Wholesale trade,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,25225,2948920782,22083,2948356919,2418979,128175920
+42,Wholesale trade,20,Hispanic or Latino,0,All firms,2002,34176,39323109,12420,37503211,86354,2831462
+42,Wholesale trade,20,Hispanic or Latino,1,Female-owned,2002,8267,4483441,2851,4193807,15326,475794
+42,Wholesale trade,20,Hispanic or Latino,2,Male-owned,2002,22323,31144315,8133,29909773,63054,2118512
+42,Wholesale trade,20,Hispanic or Latino,3,Equally male-/female-owned,2002,3586,3695352,1437,3399632,7974,237156
+42,Wholesale trade,29,Not Hispanic or Latino,0,All firms,2002,638642,1766356270,311784,1737996588,3483107,136011545
+42,Wholesale trade,29,Not Hispanic or Latino,1,Female-owned,2002,113090,205921924,38902,202095694,362390,12335989
+42,Wholesale trade,29,Not Hispanic or Latino,2,Male-owned,2002,434565,1442159890,231062,1422442020,2810778,113440504
+42,Wholesale trade,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,90973,118082976,41807,113267394,309420,10218866
+42,Wholesale trade,30,White,0,All firms,2002,608422,1708436862,296308,1682070169,3393996,132482415
+42,Wholesale trade,30,White,1,Female-owned,2002,105110,195611073,36503,192265896,351156,11965631
+42,Wholesale trade,30,White,2,Male-owned,2002,418458,1402858816,220824,1384128600,2746766,110807113
+42,Wholesale trade,30,White,3,Equally male-/female-owned,2002,84854,109966973,38982,105675673,296075,9709670
+42,Wholesale trade,40,Black or African American,0,All firms,2002,12493,5604424,1946,5136249,11378,392070
+42,Wholesale trade,40,Black or African American,1,Female-owned,2002,4210,1823717,401,D,g,D
+42,Wholesale trade,40,Black or African American,2,Male-owned,2002,7106,3568573,1388,3253607,8130,298677
+42,Wholesale trade,40,Black or African American,3,Equally male-/female-owned,2002,1177,212134,157,D,f,D
+42,Wholesale trade,50,American Indian and Alaska Native,0,All firms,2002,4252,2162013,793,2048396,5698,191090
+42,Wholesale trade,50,American Indian and Alaska Native,1,Female-owned,2002,1976,444957,238,D,g,D
+42,Wholesale trade,50,American Indian and Alaska Native,2,Male-owned,2002,2074,1506919,520,1427286,3924,135183
+42,Wholesale trade,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,S,S,S,D,b,D
+42,Wholesale trade,60,Asian,0,All firms,2002,46564,87083033,24566,83923587,154530,5590397
+42,Wholesale trade,60,Asian,1,Female-owned,2002,10415,12740753,4721,12088717,23669,760212
+42,Wholesale trade,60,Asian,2,Male-owned,2002,29853,64463035,16583,62564393,113725,4245168
+42,Wholesale trade,60,Asian,3,Equally male-/female-owned,2002,6296,9879245,3263,9270477,17136,585016
+42,Wholesale trade,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,377,482180,146,469097,1078,35880
+42,Wholesale trade,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,126,101815,47,D,e,D
+42,Wholesale trade,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,238,378268,92,370865,733,27375
+42,Wholesale trade,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,S,S,S,D,a,D
+42,Wholesale trade,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,25225,2948920782,22083,2948356919,2418979,128175920
+44-45,Retail trade,0,All firms,0,All firms,2002,2584689,3168362546,745872,3090472278,14757370,305653674
+44-45,Retail trade,0,All firms,1,Female-owned,2002,944616,148947422,145676,131482898,850781,15293320
+44-45,Retail trade,0,All firms,2,Male-owned,2002,1163776,1363426901,439668,1319255866,5319797,128295475
+44-45,Retail trade,0,All firms,3,Equally male-/female-owned,2002,432969,169687312,133276,154266271,937536,17536125
+44-45,Retail trade,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,32899,1473406949,28843,1472961149,7664471,144046014
+44-45,Retail trade,20,Hispanic or Latino,0,All firms,2002,151450,40424225,25907,35510999,156499,3271229
+44-45,Retail trade,20,Hispanic or Latino,1,Female-owned,2002,57618,5529061,5566,4225735,22241,405973
+44-45,Retail trade,20,Hispanic or Latino,2,Male-owned,2002,75549,31068283,16946,28221906,113033,2537659
+44-45,Retail trade,20,Hispanic or Latino,3,Equally male-/female-owned,2002,18283,3826882,3396,3063358,21225,327597
+44-45,Retail trade,29,Not Hispanic or Latino,0,All firms,2002,2389997,1641801785,692797,1569658412,6953079,157876692
+44-45,Retail trade,29,Not Hispanic or Latino,1,Female-owned,2002,886999,143418361,140110,127257163,828540,14887347
+44-45,Retail trade,29,Not Hispanic or Latino,2,Male-owned,2002,1088227,1332358618,422722,1291033959,5206764,125757816
+44-45,Retail trade,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,414685,165860430,129880,151202913,916311,17208528
+44-45,Retail trade,30,White,0,All firms,2002,2266858,1596523433,643504,1528729619,6741388,154559069
+44-45,Retail trade,30,White,1,Female-owned,2002,846467,136309197,131213,121186231,792691,14302638
+44-45,Retail trade,30,White,2,Male-owned,2002,1037888,1305129979,393505,1265529853,5079062,123837122
+44-45,Retail trade,30,White,3,Equally male-/female-owned,2002,382503,155084256,118786,142013534,869635,16419309
+44-45,Retail trade,40,Black or African American,0,All firms,2002,102098,13586551,8824,11550216,44618,981842
+44-45,Retail trade,40,Black or African American,1,Female-owned,2002,49626,1805028,2033,1155239,6081,104325
+44-45,Retail trade,40,Black or African American,2,Male-owned,2002,41214,11021945,5742,9904869,35014,818581
+44-45,Retail trade,40,Black or African American,3,Equally male-/female-owned,2002,11259,759578,1049,490109,3524,58937
+44-45,Retail trade,50,American Indian and Alaska Native,0,All firms,2002,20494,4967332,2971,4382120,21122,437272
+44-45,Retail trade,50,American Indian and Alaska Native,1,Female-owned,2002,10822,938324,864,740485,4547,81359
+44-45,Retail trade,50,American Indian and Alaska Native,2,Male-owned,2002,8475,3610643,1777,3278529,13552,305548
+44-45,Retail trade,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,1112,253989,S,S,S,S
+44-45,Retail trade,60,Asian,0,All firms,2002,151616,65143372,61704,58564205,291788,5004255
+44-45,Retail trade,60,Asian,1,Female-owned,2002,43320,10630131,12115,9035164,50772,874973
+44-45,Retail trade,60,Asian,2,Male-owned,2002,82907,44197073,39497,40774626,194200,3375336
+44-45,Retail trade,60,Asian,3,Equally male-/female-owned,2002,25389,10316168,10092,8754415,46816,753945
+44-45,Retail trade,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,3601,645511,459,552740,2492,56596
+44-45,Retail trade,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,1376,118363,142,94952,704,12252
+44-45,Retail trade,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,1564,465380,293,432616,1600,41085
+44-45,Retail trade,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,660,61768,24,25172,188,3260
+44-45,Retail trade,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,32899,1473406949,28843,1472961149,7664471,144046014
+48-49(002),Transportation and warehousing(002),0,All firms,0,All firms,2002,976826,437213828,167865,396519763,3733254,118297479
+48-49(002),Transportation and warehousing(002),0,All firms,1,Female-owned,2002,111445,22412100,19561,19494628,187322,5239602
+48-49(002),Transportation and warehousing(002),0,All firms,2,Male-owned,2002,724372,179486530,111302,149801207,1422688,42152068
+48-49(002),Transportation and warehousing(002),0,All firms,3,Equally male-/female-owned,2002,121716,24016769,27639,18140046,187283,4761350
+48-49(002),Transportation and warehousing(002),0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,12011,211281094,9806,210988663,1946322,66528361
+48-49(002),Transportation and warehousing(002),20,Hispanic or Latino,0,All firms,2002,125762,10670513,8884,5622207,54059,1340514
+48-49(002),Transportation and warehousing(002),20,Hispanic or Latino,1,Female-owned,2002,12145,859351,1043,575536,6501,145852
+48-49(002),Transportation and warehousing(002),20,Hispanic or Latino,2,Male-owned,2002,105897,8756380,6707,4397517,40624,1025166
+48-49(002),Transportation and warehousing(002),20,Hispanic or Latino,3,Equally male-/female-owned,2002,7720,1054782,1134,649155,6934,169496
+48-49(002),Transportation and warehousing(002),29,Not Hispanic or Latino,0,All firms,2002,831778,215309326,149626,181878114,1743419,50830204
+48-49(002),Transportation and warehousing(002),29,Not Hispanic or Latino,1,Female-owned,2002,99300,21552749,18518,18919092,180821,5093750
+48-49(002),Transportation and warehousing(002),29,Not Hispanic or Latino,2,Male-owned,2002,618475,170730150,104595,145403691,1382064,41126902
+48-49(002),Transportation and warehousing(002),29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,113996,22961987,26505,17490891,180350,4591853
+48-49(002),Transportation and warehousing(002),30,White,0,All firms,2002,796970,214317277,149101,181387836,1737449,50740196
+48-49(002),Transportation and warehousing(002),30,White,1,Female-owned,2002,95449,21128778,18093,18571825,177694,5028504
+48-49(002),Transportation and warehousing(002),30,White,2,Male-owned,2002,592674,170387115,104931,145302215,1379500,41109964
+48-49(002),Transportation and warehousing(002),30,White,3,Equally male-/female-owned,2002,108847,22801384,26077,17513796,180255,4601727
+48-49(002),Transportation and warehousing(002),40,Black or African American,0,All firms,2002,99339,5445247,4740,2159568,26265,555127
+48-49(002),Transportation and warehousing(002),40,Black or African American,1,Female-owned,2002,10230,547336,747,328273,4285,83920
+48-49(002),Transportation and warehousing(002),40,Black or African American,2,Male-owned,2002,83074,4422002,3437,1591621,18835,406698
+48-49(002),Transportation and warehousing(002),40,Black or African American,3,Equally male-/female-owned,2002,6035,475909,557,239674,3145,64510
+48-49(002),Transportation and warehousing(002),50,American Indian and Alaska Native,0,All firms,2002,9958,941814,850,500753,4784,129177
+48-49(002),Transportation and warehousing(002),50,American Indian and Alaska Native,1,Female-owned,2002,1362,138337,189,D,f,D
+48-49(002),Transportation and warehousing(002),50,American Indian and Alaska Native,2,Male-owned,2002,8283,707780,640,323343,3355,80489
+48-49(002),Transportation and warehousing(002),50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,306,31258,13,D,e,D
+48-49(002),Transportation and warehousing(002),60,Asian,0,All firms,2002,52056,4969637,3330,3212442,25063,679408
+48-49(002),Transportation and warehousing(002),60,Asian,1,Female-owned,2002,5301,651017,627,529437,3726,99694
+48-49(002),Transportation and warehousing(002),60,Asian,2,Male-owned,2002,43862,4006987,2344,2482424,19413,528595
+48-49(002),Transportation and warehousing(002),60,Asian,3,Equally male-/female-owned,2002,2894,311633,359,200580,1924,51119
+48-49(002),Transportation and warehousing(002),70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,1412,190330,243,140429,2758,46561
+48-49(002),Transportation and warehousing(002),70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,S,S,S,D,g,D
+48-49(002),Transportation and warehousing(002),70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,1145,146701,191,103555,1578,29836
+48-49(002),Transportation and warehousing(002),70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,S,S,S,D,b,D
+48-49(002),Transportation and warehousing(002),98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,12011,211281094,9806,210988663,1946322,66528361
+51,Information,0,All firms,0,All firms,2002,309117,925889945,76443,918340778,3823395,200847063
+51,Information,0,All firms,1,Female-owned,2002,80271,22086104,10837,20448682,141081,5355270
+51,Information,0,All firms,2,Male-owned,2002,184345,136789816,47592,132000799,822240,37188265
+51,Information,0,All firms,3,Equally male-/female-owned,2002,31631,9801737,8808,8924418,69767,2700775
+51,Information,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,10774,755160110,9443,754918897,2775048,154638519
+51,Information,20,Hispanic or Latino,0,All firms,2002,14516,2294001,1895,1934471,13247,564919
+51,Information,20,Hispanic or Latino,1,Female-owned,2002,4309,236273,479,145844,1667,55467
+51,Information,20,Hispanic or Latino,2,Male-owned,2002,9452,1875795,1298,1630987,11063,495265
+51,Information,20,Hispanic or Latino,3,Equally male-/female-owned,2002,S,S,S,S,S,S
+51,Information,29,Not Hispanic or Latino,0,All firms,2002,281761,166432781,65371,159488553,1020343,44702638
+51,Information,29,Not Hispanic or Latino,1,Female-owned,2002,75962,21849831,10358,20302838,139414,5299803
+51,Information,29,Not Hispanic or Latino,2,Male-owned,2002,174893,134914022,46295,130369812,811177,36693001
+51,Information,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,30876,9619805,8690,8766779,69250,2686588
+51,Information,30,White,0,All firms,2002,268131,160901589,62560,154141078,988996,43184059
+51,Information,30,White,1,Female-owned,2002,71481,20964055,10140,19469094,135555,5019536
+51,Information,30,White,2,Male-owned,2002,168162,130720158,44265,126254162,786829,35595469
+51,Information,30,White,3,Equally male-/female-owned,2002,28488,9217376,8156,8417822,66611,2569053
+51,Information,40,Black or African American,0,All firms,2002,14317,2517969,1392,2299709,14680,689562
+51,Information,40,Black or African American,1,Female-owned,2002,5566,D,260,D,g,D
+51,Information,40,Black or African American,2,Male-owned,2002,7812,1655925,981,D,j,D
+51,Information,40,Black or African American,3,Equally male-/female-owned,2002,939,D,151,D,g,D
+51,Information,50,American Indian and Alaska Native,0,All firms,2002,2618,368492,271,315694,4076,118674
+51,Information,50,American Indian and Alaska Native,1,Female-owned,2002,760,D,35,D,g,D
+51,Information,50,American Indian and Alaska Native,2,Male-owned,2002,1745,D,207,D,g,D
+51,Information,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,S,D,S,S,S,S
+51,Information,60,Asian,0,All firms,2002,12092,4841799,2911,4554564,25811,1259779
+51,Information,60,Asian,1,Female-owned,2002,3411,327279,413,D,g,D
+51,Information,60,Asian,2,Male-owned,2002,7938,4220873,2245,4037385,22331,1116106
+51,Information,60,Asian,3,Equally male-/female-owned,2002,744,293647,253,D,g,D
+51,Information,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,311,144594,58,135338,427,27083
+51,Information,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,130,D,11,D,c,D
+51,Information,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,176,D,42,D,e,D
+51,Information,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,4,D,4,D,a,D
+51,Information,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,10774,755160110,9443,754918897,2775048,154638519
+52(206),Finance and insurance(206),0,All firms,0,All firms,2002,901368,2882674989,241120,2838570221,6669414,390192604
+52(206),Finance and insurance(206),0,All firms,1,Female-owned,2002,167060,26835397,32499,21557541,141932,5525261
+52(206),Finance and insurance(206),0,All firms,2,Male-owned,2002,603495,275951512,164060,243524407,1214467,63924867
+52(206),Finance and insurance(206),0,All firms,3,Equally male-/female-owned,2002,85827,16962153,19071,12417563,85824,3375279
+52(206),Finance and insurance(206),0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,40519,2560215347,24813,2558665120,5211988,316744432
+52(206),Finance and insurance(206),20,Hispanic or Latino,0,All firms,2002,33282,5066488,6536,3930287,24301,886627
+52(206),Finance and insurance(206),20,Hispanic or Latino,1,Female-owned,2002,9890,1040111,1468,765932,4281,179443
+52(206),Finance and insurance(206),20,Hispanic or Latino,2,Male-owned,2002,20700,3780385,4561,3014448,18612,670414
+52(206),Finance and insurance(206),20,Hispanic or Latino,3,Equally male-/female-owned,2002,2692,245992,507,149908,1408,36770
+52(206),Finance and insurance(206),29,Not Hispanic or Latino,0,All firms,2002,823116,314722825,209109,273609474,1418078,71945141
+52(206),Finance and insurance(206),29,Not Hispanic or Latino,1,Female-owned,2002,157170,25795286,31030,20791609,137651,5345818
+52(206),Finance and insurance(206),29,Not Hispanic or Latino,2,Male-owned,2002,582795,272171127,159499,240509959,1195855,63254453
+52(206),Finance and insurance(206),29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,83135,16716162,18564,12267656,84416,3338509
+52(206),Finance and insurance(206),30,White,0,All firms,2002,794698,308952959,205694,269417172,1397697,70613185
+52(206),Finance and insurance(206),30,White,1,Female-owned,2002,149278,25248631,30059,20406914,132854,5206272
+52(206),Finance and insurance(206),30,White,2,Male-owned,2002,566221,268126142,157664,237463497,1183600,62202842
+52(206),Finance and insurance(206),30,White,3,Equally male-/female-owned,2002,79198,15578186,17971,11546761,81244,3204071
+52(206),Finance and insurance(206),40,Black or African American,0,All firms,2002,28325,2822018,3666,2081288,13584,548558
+52(206),Finance and insurance(206),40,Black or African American,1,Female-owned,2002,10112,594714,1019,411624,3036,94499
+52(206),Finance and insurance(206),40,Black or African American,2,Male-owned,2002,16330,2123621,2483,1618659,9729,435400
+52(206),Finance and insurance(206),40,Black or African American,3,Equally male-/female-owned,2002,1883,103683,164,51005,819,18659
+52(206),Finance and insurance(206),50,American Indian and Alaska Native,0,All firms,2002,4925,556736,826,433968,3231,106066
+52(206),Finance and insurance(206),50,American Indian and Alaska Native,1,Female-owned,2002,1523,D,253,D,g,D
+52(206),Finance and insurance(206),50,American Indian and Alaska Native,2,Male-owned,2002,3271,264356,550,D,g,D
+52(206),Finance and insurance(206),50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,116,D,S,S,S,S
+52(206),Finance and insurance(206),60,Asian,0,All firms,2002,30041,6969972,5475,5169220,25549,1357324
+52(206),Finance and insurance(206),60,Asian,1,Female-owned,2002,8043,943647,1341,688106,5590,204824
+52(206),Finance and insurance(206),60,Asian,2,Male-owned,2002,19663,5142302,3654,3893031,18214,1092095
+52(206),Finance and insurance(206),60,Asian,3,Equally male-/female-owned,2002,2335,884022,480,588084,1745,60405
+52(206),Finance and insurance(206),70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,579,30637,81,16091,152,5004
+52(206),Finance and insurance(206),70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,S,D,S,D,b,D
+52(206),Finance and insurance(206),70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,417,20712,54,D,b,D
+52(206),Finance and insurance(206),70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,S,D,S,S,S,S
+52(206),Finance and insurance(206),98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,40519,2560215347,24813,2558665120,5211988,316744432
+53,Real estate and rental and leasing,0,All firms,0,All firms,2002,2146154,508224656,266161,346439630,1977379,61831825
+53,Real estate and rental and leasing,0,All firms,1,Female-owned,2002,504055,48318264,49903,24246517,169588,4796875
+53,Real estate and rental and leasing,0,All firms,2,Male-owned,2002,1176790,260830106,154194,163766140,1077295,32865153
+53,Real estate and rental and leasing,0,All firms,3,Equally male-/female-owned,2002,353267,44810488,38091,19212743,137220,3505401
+53,Real estate and rental and leasing,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,106613,152368014,22206,138141346,580670,20880518
+53,Real estate and rental and leasing,20,Hispanic or Latino,0,All firms,2002,68823,6176564,5792,2680730,20528,503218
+53,Real estate and rental and leasing,20,Hispanic or Latino,1,Female-owned,2002,23756,1535900,1555,581372,4754,108596
+53,Real estate and rental and leasing,20,Hispanic or Latino,2,Male-owned,2002,37216,3842063,3656,1862845,13997,352597
+53,Real estate and rental and leasing,20,Hispanic or Latino,3,Equally male-/female-owned,2002,7851,798601,582,236512,1777,42025
+53,Real estate and rental and leasing,29,Not Hispanic or Latino,0,All firms,2002,1965325,347874636,236429,204636421,1363964,40679402
+53,Real estate and rental and leasing,29,Not Hispanic or Latino,1,Female-owned,2002,480299,46782363,48348,23665145,164834,4688279
+53,Real estate and rental and leasing,29,Not Hispanic or Latino,2,Male-owned,2002,1139574,256988043,150538,161903294,1063299,32512557
+53,Real estate and rental and leasing,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,345416,44011887,37510,18976231,135442,3463376
+53,Real estate and rental and leasing,30,White,0,All firms,2002,1893503,339620931,229823,200566529,1331583,39706109
+53,Real estate and rental and leasing,30,White,1,Female-owned,2002,460987,45688317,47406,23271082,161194,4516967
+53,Real estate and rental and leasing,30,White,2,Male-owned,2002,1105269,251752207,146827,159055158,1039761,31828405
+53,Real estate and rental and leasing,30,White,3,Equally male-/female-owned,2002,327247,42180407,35589,18240289,130627,3360738
+53,Real estate and rental and leasing,40,Black or African American,0,All firms,2002,52315,2870564,2537,1266341,12534,305959
+53,Real estate and rental and leasing,40,Black or African American,1,Female-owned,2002,20508,701877,602,198578,1726,43593
+53,Real estate and rental and leasing,40,Black or African American,2,Male-owned,2002,25956,1898218,1649,991625,10261,249724
+53,Real estate and rental and leasing,40,Black or African American,3,Equally male-/female-owned,2002,5851,270469,285,76139,547,12642
+53,Real estate and rental and leasing,50,American Indian and Alaska Native,0,All firms,2002,9277,715084,626,342278,2324,69367
+53,Real estate and rental and leasing,50,American Indian and Alaska Native,1,Female-owned,2002,4664,300842,252,107998,698,17369
+53,Real estate and rental and leasing,50,American Indian and Alaska Native,2,Male-owned,2002,4220,293367,326,131729,1158,34523
+53,Real estate and rental and leasing,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,358,28533,16,10801,79,2284
+53,Real estate and rental and leasing,60,Asian,0,All firms,2002,74620,9758863,8625,4778485,35209,1031556
+53,Real estate and rental and leasing,60,Asian,1,Female-owned,2002,21298,1824303,1777,717403,5972,216218
+53,Real estate and rental and leasing,60,Asian,2,Male-owned,2002,41300,6433024,5289,3425208,25281,726093
+53,Real estate and rental and leasing,60,Asian,3,Equally male-/female-owned,2002,12022,1501536,1559,635874,3955,89245
+53,Real estate and rental and leasing,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,1851,153153,266,80489,732,21671
+53,Real estate and rental and leasing,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,734,50757,102,28917,323,6991
+53,Real estate and rental and leasing,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,954,96177,164,51573,410,14679
+53,Real estate and rental and leasing,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,S,S,S,S,S,S
+53,Real estate and rental and leasing,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,106613,152368014,22206,138141346,580670,20880518
+54,"Professional, scientific, and technical services",0,All firms,0,All firms,2002,3280627,1007956167,727893,911568291,7426468,387701354
+54,"Professional, scientific, and technical services",0,All firms,1,Female-owned,2002,934800,79133441,133372,57175880,572654,21288363
+54,"Professional, scientific, and technical services",0,All firms,2,Male-owned,2002,2016856,467411729,501626,404912304,3576411,165762685
+54,"Professional, scientific, and technical services",0,All firms,3,Equally male-/female-owned,2002,289189,37822190,63493,28828018,295768,10845915
+54,"Professional, scientific, and technical services",0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,35790,423954224,28176,422567592,2954617,190231316
+54,"Professional, scientific, and technical services",20,Hispanic or Latino,0,All firms,2002,138343,15016532,19360,11528555,98438,4166729
+54,"Professional, scientific, and technical services",20,Hispanic or Latino,1,Female-owned,2002,44518,3214938,4719,2247994,20077,856200
+54,"Professional, scientific, and technical services",20,Hispanic or Latino,2,Male-owned,2002,87236,11243934,13416,8931099,74915,3200151
+54,"Professional, scientific, and technical services",20,Hispanic or Latino,3,Equally male-/female-owned,2002,6589,557659,1224,349463,3447,110378
+54,"Professional, scientific, and technical services",29,Not Hispanic or Latino,0,All firms,2002,3102519,569562048,679148,479598866,4348795,193855621
+54,"Professional, scientific, and technical services",29,Not Hispanic or Latino,1,Female-owned,2002,890283,75918503,128653,54927886,552578,20432163
+54,"Professional, scientific, and technical services",29,Not Hispanic or Latino,2,Male-owned,2002,1929620,456167795,488210,395981205,3501495,162562534
+54,"Professional, scientific, and technical services",29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,282600,37264531,62269,28478555,292322,10735537
+54,"Professional, scientific, and technical services",30,White,0,All firms,2002,2955433,544306279,653545,457625580,4145286,183973016
+54,"Professional, scientific, and technical services",30,White,1,Female-owned,2002,840906,71761492,123354,51566246,523927,19034881
+54,"Professional, scientific, and technical services",30,White,2,Male-owned,2002,1853923,437541954,471642,379233631,3346005,154909905
+54,"Professional, scientific, and technical services",30,White,3,Equally male-/female-owned,2002,260604,35002833,58550,26825702,275354,10028229
+54,"Professional, scientific, and technical services",40,Black or African American,0,All firms,2002,115814,9394834,11014,7096863,70852,2878847
+54,"Professional, scientific, and technical services",40,Black or African American,1,Female-owned,2002,46421,2371353,3268,D,j,D
+54,"Professional, scientific, and technical services",40,Black or African American,2,Male-owned,2002,62626,6746401,7172,5372418,53447,2214404
+54,"Professional, scientific, and technical services",40,Black or African American,3,Equally male-/female-owned,2002,6767,277080,574,D,g,D
+54,"Professional, scientific, and technical services",50,American Indian and Alaska Native,0,All firms,2002,22505,2090596,3271,1569868,15310,640738
+54,"Professional, scientific, and technical services",50,American Indian and Alaska Native,1,Female-owned,2002,8149,471574,970,D,h,D
+54,"Professional, scientific, and technical services",50,American Indian and Alaska Native,2,Male-owned,2002,13889,1383953,2261,D,i,D
+54,"Professional, scientific, and technical services",50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,450,23848,23,D,b,D
+54,"Professional, scientific, and technical services",60,Asian,0,All firms,2002,154220,27233894,30000,23359848,196057,9962528
+54,"Professional, scientific, and technical services",60,Asian,1,Female-owned,2002,46846,4871812,6472,3899684,32049,1600323
+54,"Professional, scientific, and technical services",60,Asian,2,Male-owned,2002,96431,21059429,21416,18451768,153706,7934049
+54,"Professional, scientific, and technical services",60,Asian,3,Equally male-/female-owned,2002,10942,1302653,2113,1008396,10302,428156
+54,"Professional, scientific, and technical services",70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,3239,267285,321,172732,1351,53364
+54,"Professional, scientific, and technical services",70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,806,47744,75,D,e,D
+54,"Professional, scientific, and technical services",70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,2374,217970,243,D,g,D
+54,"Professional, scientific, and technical services",70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,60,1571,S,D,a,D
+54,"Professional, scientific, and technical services",98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,35790,423954224,28176,422567592,2954617,190231316
+55,Management of companies and enterprises,0,All firms,0,All firms,2002,28351,145160653,28351,145160653,2897402,197110479
+55,Management of companies and enterprises,0,All firms,1,Female-owned,2002,2098,1706800,2098,1706800,61107,2722130
+55,Management of companies and enterprises,0,All firms,2,Male-owned,2002,13847,23774717,13847,23774717,472683,24671426
+55,Management of companies and enterprises,0,All firms,3,Equally male-/female-owned,2002,1407,2990519,1407,2990519,22891,1214911
+55,Management of companies and enterprises,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,10504,124238031,10504,124238031,2353817,168965578
+55,Management of companies and enterprises,20,Hispanic or Latino,0,All firms,2002,235,904430,235,904430,5984,304590
+55,Management of companies and enterprises,20,Hispanic or Latino,1,Female-owned,2002,29,D,29,D,c,D
+55,Management of companies and enterprises,20,Hispanic or Latino,2,Male-owned,2002,193,893810,193,893810,5334,264816
+55,Management of companies and enterprises,20,Hispanic or Latino,3,Equally male-/female-owned,2002,13,D,13,D,e,D
+55,Management of companies and enterprises,29,Not Hispanic or Latino,0,All firms,2002,17128,27598371,17128,27598371,551245,28334798
+55,Management of companies and enterprises,29,Not Hispanic or Latino,1,Female-owned,2002,2069,D,2069,D,l,D
+55,Management of companies and enterprises,29,Not Hispanic or Latino,2,Male-owned,2002,13654,22880907,13654,22880907,467349,24406610
+55,Management of companies and enterprises,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,1394,D,1394,D,j,D
+55,Management of companies and enterprises,30,White,0,All firms,2002,16610,D,16610,D,m,D
+55,Management of companies and enterprises,30,White,1,Female-owned,2002,1941,D,1941,D,k,D
+55,Management of companies and enterprises,30,White,2,Male-owned,2002,13363,23508803,13363,23508803,462257,24122557
+55,Management of companies and enterprises,30,White,3,Equally male-/female-owned,2002,1306,2961191,1306,2961191,21722,1150973
+55,Management of companies and enterprises,40,Black or African American,0,All firms,2002,178,111436,178,111436,3907,165680
+55,Management of companies and enterprises,40,Black or African American,1,Female-owned,2002,35,52751,35,52751,1093,67029
+55,Management of companies and enterprises,40,Black or African American,2,Male-owned,2002,115,D,115,D,g,D
+55,Management of companies and enterprises,40,Black or African American,3,Equally male-/female-owned,2002,29,D,29,D,e,D
+55,Management of companies and enterprises,50,American Indian and Alaska Native,0,All firms,2002,66,39905,66,39905,991,51813
+55,Management of companies and enterprises,50,American Indian and Alaska Native,1,Female-owned,2002,S,D,S,D,c,D
+55,Management of companies and enterprises,50,American Indian and Alaska Native,2,Male-owned,2002,40,D,40,D,c,D
+55,Management of companies and enterprises,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,1,D,1,D,b,D
+55,Management of companies and enterprises,60,Asian,0,All firms,2002,478,229923,478,229923,25752,1083871
+55,Management of companies and enterprises,60,Asian,1,Female-owned,2002,114,D,114,D,j,D
+55,Management of companies and enterprises,60,Asian,2,Male-owned,2002,307,203004,307,203004,7515,443800
+55,Management of companies and enterprises,60,Asian,3,Equally male-/female-owned,2002,S,D,S,D,f,D
+55,Management of companies and enterprises,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,3,D,3,D,a,D
+55,Management of companies and enterprises,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,1,D,1,D,a,D
+55,Management of companies and enterprises,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,2,D,2,D,a,D
+55,Management of companies and enterprises,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,0,0,0,0,0,0
+55,Management of companies and enterprises,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,10504,124238031,10504,124238031,2353817,168965578
+56,Administrative and support and waste management and remediation services,0,All firms,0,All firms,2002,1568045,469553032,305462,442644375,8825729,211352735
+56,Administrative and support and waste management and remediation services,0,All firms,1,Female-owned,2002,569295,48062439,60528,40567261,1004044,19589229
+56,Administrative and support and waste management and remediation services,0,All firms,2,Male-owned,2002,805549,199036469,187869,184519176,3965953,87976671
+56,Administrative and support and waste management and remediation services,0,All firms,3,Equally male-/female-owned,2002,163330,25907927,41812,22827928,453390,9631444
+56,Administrative and support and waste management and remediation services,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,18015,189629025,15585,189212285,3308270,91198568
+56,Administrative and support and waste management and remediation services,20,Hispanic or Latino,0,All firms,2002,208124,12205650,15989,9086674,242714,4098884
+56,Administrative and support and waste management and remediation services,20,Hispanic or Latino,1,Female-owned,2002,89590,3299366,3201,2163880,45957,946954
+56,Administrative and support and waste management and remediation services,20,Hispanic or Latino,2,Male-owned,2002,105934,8209939,11696,6507427,187001,2999144
+56,Administrative and support and waste management and remediation services,20,Hispanic or Latino,3,Equally male-/female-owned,2002,12600,696345,1091,415367,9756,152786
+56,Administrative and support and waste management and remediation services,29,Not Hispanic or Latino,0,All firms,2002,1330061,261306074,274231,239332581,5185251,113271712
+56,Administrative and support and waste management and remediation services,29,Not Hispanic or Latino,1,Female-owned,2002,479705,44763073,57326,38403381,958087,18642275
+56,Administrative and support and waste management and remediation services,29,Not Hispanic or Latino,2,Male-owned,2002,699616,190826530,176172,178011749,3778952,84977528
+56,Administrative and support and waste management and remediation services,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,150730,25211582,40722,22412561,443634,9478658
+56,Administrative and support and waste management and remediation services,30,White,0,All firms,2002,1352249,258308414,270697,235901666,5147573,111832965
+56,Administrative and support and waste management and remediation services,30,White,1,Female-owned,2002,506182,45139799,56117,38436429,951771,18624773
+56,Administrative and support and waste management and remediation services,30,White,2,Male-owned,2002,705422,188870571,175713,175840815,3771234,84090246
+56,Administrative and support and waste management and remediation services,30,White,3,Equally male-/female-owned,2002,140645,24298044,38867,21624421,424568,9117946
+56,Administrative and support and waste management and remediation services,40,Black or African American,0,All firms,2002,121136,6416127,9812,4908105,133926,2316143
+56,Administrative and support and waste management and remediation services,40,Black or African American,1,Female-owned,2002,43058,1510451,2334,1038461,25110,447982
+56,Administrative and support and waste management and remediation services,40,Black or African American,2,Male-owned,2002,66928,4274922,6420,3371691,93557,1622257
+56,Administrative and support and waste management and remediation services,40,Black or African American,3,Equally male-/female-owned,2002,11149,630753,1058,497953,15259,245904
+56,Administrative and support and waste management and remediation services,50,American Indian and Alaska Native,0,All firms,2002,15712,1698760,1844,1504568,31164,637863
+56,Administrative and support and waste management and remediation services,50,American Indian and Alaska Native,1,Female-owned,2002,6944,381842,621,305951,8239,148718
+56,Administrative and support and waste management and remediation services,50,American Indian and Alaska Native,2,Male-owned,2002,8438,799394,1143,685498,18164,313373
+56,Administrative and support and waste management and remediation services,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,319,12634,S,S,S,S
+56,Administrative and support and waste management and remediation services,60,Asian,0,All firms,2002,53028,6863175,7588,5895686,118545,2586329
+56,Administrative and support and waste management and remediation services,60,Asian,1,Female-owned,2002,18781,1178618,1813,870278,21864,412895
+56,Administrative and support and waste management and remediation services,60,Asian,2,Male-owned,2002,29410,5197502,4989,4637093,89286,2023060
+56,Administrative and support and waste management and remediation services,60,Asian,3,Equally male-/female-owned,2002,4837,487054,785,388315,7395,150374
+56,Administrative and support and waste management and remediation services,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,3362,451567,S,S,S,S
+56,Administrative and support and waste management and remediation services,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,1161,51064,S,S,S,S
+56,Administrative and support and waste management and remediation services,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,1668,320901,420,299230,3238,84524
+56,Administrative and support and waste management and remediation services,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,S,S,S,S,S,S
+56,Administrative and support and waste management and remediation services,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,18015,189629025,15585,189212285,3308270,91198568
+61,Educational services,0,All firms,0,All firms,2002,409724,165600543,65251,161019513,2571721,68660791
+61,Educational services,0,All firms,1,Female-owned,2002,192429,7388159,15889,5520202,118121,2094368
+61,Educational services,0,All firms,2,Male-owned,2002,156764,17333764,16849,15415543,236420,6213056
+61,Educational services,0,All firms,3,Equally male-/female-owned,2002,33772,4572371,7522,4106738,72117,1528426
+61,Educational services,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,24174,136393569,23600,136340254,2142509,59234945
+61,Educational services,20,Hispanic or Latino,0,All firms,2002,19589,1142631,1428,955516,12177,300956
+61,Educational services,20,Hispanic or Latino,1,Female-owned,2002,9864,258945,565,176281,4222,68078
+61,Educational services,20,Hispanic or Latino,2,Male-owned,2002,8524,520366,695,424368,6743,154170
+61,Educational services,20,Hispanic or Latino,3,Equally male-/female-owned,2002,S,S,S,S,S,S
+61,Educational services,29,Not Hispanic or Latino,0,All firms,2002,363376,28151663,38832,24086967,414480,9534894
+61,Educational services,29,Not Hispanic or Latino,1,Female-owned,2002,182565,7129215,15324,5343921,113899,2026290
+61,Educational services,29,Not Hispanic or Latino,2,Male-owned,2002,148240,16813398,16154,14991175,229676,6058886
+61,Educational services,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,32571,4209051,7354,3751871,70905,1449718
+61,Educational services,30,White,0,All firms,2002,339257,27478879,36474,D,m,D
+61,Educational services,30,White,1,Female-owned,2002,169131,6775238,14417,5102042,109143,1927176
+61,Educational services,30,White,2,Male-owned,2002,140329,16554446,15239,14817121,226771,5984218
+61,Educational services,30,White,3,Equally male-/female-owned,2002,29797,4149195,6818,D,l,D
+61,Educational services,40,Black or African American,0,All firms,2002,25256,763488,1247,541025,10666,224381
+61,Educational services,40,Black or African American,1,Female-owned,2002,15127,328904,584,206025,4622,94055
+61,Educational services,40,Black or African American,2,Male-owned,2002,8767,276396,444,188054,3374,80137
+61,Educational services,40,Black or African American,3,Equally male-/female-owned,2002,1362,158188,219,146946,2671,50188
+61,Educational services,50,American Indian and Alaska Native,0,All firms,2002,3609,148035,260,110591,2913,40588
+61,Educational services,50,American Indian and Alaska Native,1,Female-owned,2002,1866,D,191,D,f,D
+61,Educational services,50,American Indian and Alaska Native,2,Male-owned,2002,S,D,S,D,g,D
+61,Educational services,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,S,D,S,D,b,D
+61,Educational services,60,Asian,0,All firms,2002,15517,778742,2115,612052,10457,205111
+61,Educational services,60,Asian,1,Female-owned,2002,7722,D,799,D,h,D
+61,Educational services,60,Asian,2,Male-owned,2002,6805,439013,1091,D,i,D
+61,Educational services,60,Asian,3,Equally male-/female-owned,2002,990,D,224,D,g,D
+61,Educational services,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,442,11444,S,D,b,D
+61,Educational services,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,165,D,S,D,b,D
+61,Educational services,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,S,D,S,D,b,D
+61,Educational services,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,0,0,0,0,0,0
+61,Educational services,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,24174,136393569,23600,136340254,2142509,59234945
+62,Health care and social assistance,0,All firms,0,All firms,2002,2021115,1155099430,564299,1112831827,13937400,452492796
+62,Health care and social assistance,0,All firms,1,Female-owned,2002,1035833,68383334,116062,51518527,960710,21819132
+62,Health care and social assistance,0,All firms,2,Male-owned,2002,752095,324043116,334771,304248068,3481176,126817173
+62,Health care and social assistance,0,All firms,3,Equally male-/female-owned,2002,141394,26260392,37377,23151062,446506,10015408
+62,Health care and social assistance,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,77204,737866582,74644,736840718,9111888,294208095
+62,Health care and social assistance,20,Hispanic or Latino,0,All firms,2002,181677,13757965,20206,11208335,140477,4236792
+62,Health care and social assistance,20,Hispanic or Latino,1,Female-owned,2002,124949,3585696,6743,2162603,44353,801478
+62,Health care and social assistance,20,Hispanic or Latino,2,Male-owned,2002,48812,9617659,12438,8619181,88370,3254128
+62,Health care and social assistance,20,Hispanic or Latino,3,Equally male-/female-owned,2002,7916,554610,1026,426551,7754,181186
+62,Health care and social assistance,29,Not Hispanic or Latino,0,All firms,2002,1747650,404944059,468008,367724504,4748042,154420648
+62,Health care and social assistance,29,Not Hispanic or Latino,1,Female-owned,2002,910885,64797637,109320,49355924,916357,21017654
+62,Health care and social assistance,29,Not Hispanic or Latino,2,Male-owned,2002,703283,314425458,322333,295628887,3392806,123563046
+62,Health care and social assistance,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,133478,25705782,36351,22724511,438752,9834222
+62,Health care and social assistance,30,White,0,All firms,2002,1544041,372941156,419293,340127321,4405186,143265252
+62,Health care and social assistance,30,White,1,Female-owned,2002,785726,56049851,93891,42899633,808803,18287942
+62,Health care and social assistance,30,White,2,Male-owned,2002,644462,295075898,295334,277968532,3219699,116628425
+62,Health care and social assistance,30,White,3,Equally male-/female-owned,2002,113853,21815406,30067,19259155,376684,8348884
+62,Health care and social assistance,40,Black or African American,0,All firms,2002,245766,11827547,20220,8414713,164135,3495443
+62,Health care and social assistance,40,Black or African American,1,Female-owned,2002,193599,5251695,9707,2804279,71427,1212100
+62,Health care and social assistance,40,Black or African American,2,Male-owned,2002,40413,5457938,8328,4662081,65137,1807803
+62,Health care and social assistance,40,Black or African American,3,Equally male-/female-owned,2002,11753,1117914,2185,948353,27571,475541
+62,Health care and social assistance,50,American Indian and Alaska Native,0,All firms,2002,24428,1233819,2123,920486,17520,369353
+62,Health care and social assistance,50,American Indian and Alaska Native,1,Female-owned,2002,16921,453426,860,D,i,D
+62,Health care and social assistance,50,American Indian and Alaska Native,2,Male-owned,2002,6738,727144,1169,D,j,D
+62,Health care and social assistance,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,764,38068,91,D,f,D
+62,Health care and social assistance,60,Asian,0,All firms,2002,123208,29951156,44924,26688700,279992,10315403
+62,Health care and social assistance,60,Asian,1,Female-owned,2002,50003,6832328,11938,5607873,76765,2230497
+62,Health care and social assistance,60,Asian,2,Male-owned,2002,64243,21148878,29743,19371484,175848,7383082
+62,Health care and social assistance,60,Asian,3,Equally male-/female-owned,2002,8963,1969950,3243,1709342,27379,701824
+62,Health care and social assistance,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,S,S,S,S,S,S
+62,Health care and social assistance,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,2727,55502,S,D,g,D
+62,Health care and social assistance,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,S,S,S,D,h,D
+62,Health care and social assistance,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,S,S,S,D,c,D
+62,Health care and social assistance,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,77204,737866582,74644,736840718,9111888,294208095
+71,"Arts, entertainment, and recreation",0,All firms,0,All firms,2002,969741,158211596,103824,138214395,1800070,44452436
+71,"Arts, entertainment, and recreation",0,All firms,1,Female-owned,2002,289190,12689531,16815,8038993,120583,2652910
+71,"Arts, entertainment, and recreation",0,All firms,2,Male-owned,2002,548542,62393287,49737,50438716,636851,17675862
+71,"Arts, entertainment, and recreation",0,All firms,3,Equally male-/female-owned,2002,96629,8569862,12726,6348015,102988,1930296
+71,"Arts, entertainment, and recreation",0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,26227,66693520,23118,66342216,844647,20303664
+71,"Arts, entertainment, and recreation",20,Hispanic or Latino,0,All firms,2002,44169,1874228,1696,989874,10001,297058
+71,"Arts, entertainment, and recreation",20,Hispanic or Latino,1,Female-owned,2002,14748,524750,552,227528,3087,92060
+71,"Arts, entertainment, and recreation",20,Hispanic or Latino,2,Male-owned,2002,27159,1085380,1029,560187,6171,139952
+71,"Arts, entertainment, and recreation",20,Hispanic or Latino,3,Equally male-/female-owned,2002,2262,264099,S,S,S,S
+71,"Arts, entertainment, and recreation",29,Not Hispanic or Latino,0,All firms,2002,890192,81778960,77583,63836357,850423,21962117
+71,"Arts, entertainment, and recreation",29,Not Hispanic or Latino,1,Female-owned,2002,274442,12164781,16263,7811464,117496,2560850
+71,"Arts, entertainment, and recreation",29,Not Hispanic or Latino,2,Male-owned,2002,521383,61307907,48709,49878529,630680,17535911
+71,"Arts, entertainment, and recreation",29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,94367,8305763,12611,6145856,102245,1865249
+71,"Arts, entertainment, and recreation",30,White,0,All firms,2002,850323,79308936,75420,61991193,824645,21304485
+71,"Arts, entertainment, and recreation",30,White,1,Female-owned,2002,261451,11750859,15804,7490732,112197,2485993
+71,"Arts, entertainment, and recreation",30,White,2,Male-owned,2002,500454,59531826,47586,48512493,615978,17007395
+71,"Arts, entertainment, and recreation",30,White,3,Equally male-/female-owned,2002,88418,8026251,12030,5987969,96471,1811097
+71,"Arts, entertainment, and recreation",40,Black or African American,0,All firms,2002,54430,2292380,1853,1389962,11455,445927
+71,"Arts, entertainment, and recreation",40,Black or African American,1,Female-owned,2002,18789,586125,529,325751,4876,98644
+71,"Arts, entertainment, and recreation",40,Black or African American,2,Male-owned,2002,32858,1614655,1150,1011127,6033,337810
+71,"Arts, entertainment, and recreation",40,Black or African American,3,Equally male-/female-owned,2002,2784,91600,173,53084,546,9472
+71,"Arts, entertainment, and recreation",50,American Indian and Alaska Native,0,All firms,2002,9249,392793,272,255455,2577,117999
+71,"Arts, entertainment, and recreation",50,American Indian and Alaska Native,1,Female-owned,2002,3760,69596,S,D,e,D
+71,"Arts, entertainment, and recreation",50,American Indian and Alaska Native,2,Male-owned,2002,5354,314570,161,224522,2101,111383
+71,"Arts, entertainment, and recreation",50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,134,8120,30,D,c,D
+71,"Arts, entertainment, and recreation",60,Asian,0,All firms,2002,26534,1646480,1642,1166196,20884,372276
+71,"Arts, entertainment, and recreation",60,Asian,1,Female-owned,2002,10140,377404,485,228366,3547,70364
+71,"Arts, entertainment, and recreation",60,Asian,2,Male-owned,2002,15252,1087502,944,783569,13723,229732
+71,"Arts, entertainment, and recreation",60,Asian,3,Equally male-/female-owned,2002,1142,181574,S,S,S,S
+71,"Arts, entertainment, and recreation",70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,1678,51298,53,29834,676,9844
+71,"Arts, entertainment, and recreation",70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,407,11905,S,D,c,D
+71,"Arts, entertainment, and recreation",70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,1126,34086,43,20203,371,5760
+71,"Arts, entertainment, and recreation",70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,S,S,S,D,c,D
+71,"Arts, entertainment, and recreation",98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,26227,66693520,23118,66342216,844647,20303664
+72,Accommodation and food services,0,All firms,0,All firms,2002,676116,467817402,434441,453639307,10253936,129840494
+72,Accommodation and food services,0,All firms,1,Female-owned,2002,166701,38687859,87100,35980266,909049,10276183
+72,Accommodation and food services,0,All firms,2,Male-owned,2002,343495,212618569,239999,205519476,5061792,59187187
+72,Accommodation and food services,0,All firms,3,Equally male-/female-owned,2002,138283,47255944,85805,44181389,1132732,12298195
+72,Accommodation and food services,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,21831,166831614,20134,166185580,3148394,47893186
+72,Accommodation and food services,20,Hispanic or Latino,0,All firms,2002,48068,11264691,22187,10383614,237233,2811711
+72,Accommodation and food services,20,Hispanic or Latino,1,Female-owned,2002,14997,2106726,5048,1834613,40775,498398
+72,Accommodation and food services,20,Hispanic or Latino,2,Male-owned,2002,25390,7411971,13790,6959627,160177,1864313
+72,Accommodation and food services,20,Hispanic or Latino,3,Equally male-/female-owned,2002,7682,1745994,3349,1589375,36281,449000
+72,Accommodation and food services,29,Not Hispanic or Latino,0,All firms,2002,600421,287317741,390727,275317580,6866611,78956508
+72,Accommodation and food services,29,Not Hispanic or Latino,1,Female-owned,2002,151705,36581132,82051,34145654,868274,9777785
+72,Accommodation and food services,29,Not Hispanic or Latino,2,Male-owned,2002,318105,205206598,226209,198559850,4901615,57322874
+72,Accommodation and food services,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,130601,45509949,82456,42592015,1096451,11849194
+72,Accommodation and food services,30,White,0,All firms,2002,510067,257863205,326313,247493199,6253464,72148069
+72,Accommodation and food services,30,White,1,Female-owned,2002,133289,32105213,70070,29980737,777544,8719283
+72,Accommodation and food services,30,White,2,Male-owned,2002,269464,188194767,190337,182362144,4546243,53403760
+72,Accommodation and food services,30,White,3,Equally male-/female-owned,2002,107314,37563225,65907,35150318,929677,10025027
+72,Accommodation and food services,40,Black or African American,0,All firms,2002,25335,5033417,6585,4415921,114957,1170993
+72,Accommodation and food services,40,Black or African American,1,Female-owned,2002,10544,804475,1806,633695,13554,165806
+72,Accommodation and food services,40,Black or African American,2,Male-owned,2002,11551,3344330,3662,3030636,82925,824609
+72,Accommodation and food services,40,Black or African American,3,Equally male-/female-owned,2002,3240,884612,S,S,S,S
+72,Accommodation and food services,50,American Indian and Alaska Native,0,All firms,2002,3605,714564,2183,674918,17441,177278
+72,Accommodation and food services,50,American Indian and Alaska Native,1,Female-owned,2002,1692,267219,967,252765,7922,66521
+72,Accommodation and food services,50,American Indian and Alaska Native,2,Male-owned,2002,1508,375344,1010,358418,8216,93117
+72,Accommodation and food services,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,S,S,S,S,S,S
+72,Accommodation and food services,60,Asian,0,All firms,2002,104993,32830221,75266,31093712,670671,7697402
+72,Accommodation and food services,60,Asian,1,Female-owned,2002,22112,5624934,14735,5218661,112892,1352630
+72,Accommodation and food services,60,Asian,2,Male-owned,2002,60882,20343256,45001,19433740,419404,4770022
+72,Accommodation and food services,60,Asian,3,Equally male-/female-owned,2002,21999,6862032,15530,6441311,138375,1574750
+72,Accommodation and food services,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,511,137708,193,129999,2645,33166
+72,Accommodation and food services,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,S,S,S,S,S,S
+72,Accommodation and food services,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,258,100489,133,98612,1986,23460
+72,Accommodation and food services,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,S,S,S,S,S,S
+72,Accommodation and food services,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,21831,166831614,20134,166185580,3148394,47893186
+81(207),Other services (except public administration)(207),0,All firms,0,All firms,2002,2677613,251983910,392656,194041801,2597129,58680705
+81(207),Other services (except public administration)(207),0,All firms,1,Female-owned,2002,1015719,36215988,85790,19622059,386142,6559028
+81(207),Other services (except public administration)(207),0,All firms,2,Male-owned,2002,1343088,142744331,231833,110114866,1407625,32633346
+81(207),Other services (except public administration)(207),0,All firms,3,Equally male-/female-owned,2002,291237,28828650,60287,21760601,331385,6731078
+81(207),Other services (except public administration)(207),0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,19053,43099462,15963,42765736,490905,12935273
+81(207),Other services (except public administration)(207),20,Hispanic or Latino,0,All firms,2002,249192,10081522,19333,5328725,73720,1486277
+81(207),Other services (except public administration)(207),20,Hispanic or Latino,1,Female-owned,2002,101040,2403538,4699,852024,16941,263454
+81(207),Other services (except public administration)(207),20,Hispanic or Latino,2,Male-owned,2002,133095,6816907,13031,4049338,49388,1103649
+81(207),Other services (except public administration)(207),20,Hispanic or Latino,3,Equally male-/female-owned,2002,15056,861077,1602,427363,7392,119174
+81(207),Other services (except public administration)(207),29,Not Hispanic or Latino,0,All firms,2002,2400860,197708253,358585,146169607,2051449,44437343
+81(207),Other services (except public administration)(207),29,Not Hispanic or Latino,1,Female-owned,2002,914679,33812450,81091,18770035,369201,6295575
+81(207),Other services (except public administration)(207),29,Not Hispanic or Latino,2,Male-owned,2002,1209992,135927424,218802,106065529,1358237,31529697
+81(207),Other services (except public administration)(207),29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,276181,27967573,58685,21333238,323994,6611904
+81(207),Other services (except public administration)(207),30,White,0,All firms,2002,2230505,190020307,336367,141298120,1966291,43044613
+81(207),Other services (except public administration)(207),30,White,1,Female-owned,2002,828623,31355977,73609,17719876,347079,6012973
+81(207),Other services (except public administration)(207),30,White,2,Male-owned,2002,1151935,132588963,209245,103572935,1316865,30835001
+81(207),Other services (except public administration)(207),30,White,3,Equally male-/female-owned,2002,249948,26075368,53513,20005309,302346,6196640
+81(207),Other services (except public administration)(207),40,Black or African American,0,All firms,2002,210443,5177925,8591,2091739,31905,571181
+81(207),Other services (except public administration)(207),40,Black or African American,1,Female-owned,2002,106064,1934798,2381,506324,8697,144018
+81(207),Other services (except public administration)(207),40,Black or African American,2,Male-owned,2002,94370,2869401,5282,1378869,19910,370235
+81(207),Other services (except public administration)(207),40,Black or African American,3,Equally male-/female-owned,2002,10009,373726,929,206546,3298,56929
+81(207),Other services (except public administration)(207),50,American Indian and Alaska Native,0,All firms,2002,26651,934781,1700,446604,6328,115856
+81(207),Other services (except public administration)(207),50,American Indian and Alaska Native,1,Female-owned,2002,10986,292758,485,120709,1966,30695
+81(207),Other services (except public administration)(207),50,American Indian and Alaska Native,2,Male-owned,2002,14796,604959,1071,303574,3943,79241
+81(207),Other services (except public administration)(207),50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,860,36258,135,21515,402,5752
+81(207),Other services (except public administration)(207),60,Asian,0,All firms,2002,188701,11266129,30810,7184126,113238,2004347
+81(207),Other services (except public administration)(207),60,Asian,1,Female-owned,2002,78835,2856740,9792,1350860,29524,388905
+81(207),Other services (except public administration)(207),60,Asian,2,Male-owned,2002,90466,6797777,16573,4782754,65117,1318469
+81(207),Other services (except public administration)(207),60,Asian,3,Equally male-/female-owned,2002,19400,1611611,4445,1050512,18597,296972
+81(207),Other services (except public administration)(207),70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,S,S,S,S,S,S
+81(207),Other services (except public administration)(207),70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,1832,31670,S,S,S,S
+81(207),Other services (except public administration)(207),70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,S,S,S,S,S,S
+81(207),Other services (except public administration)(207),70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,258,13508,S,S,S,S
+81(207),Other services (except public administration)(207),98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,19053,43099462,15963,42765736,490905,12935273
+99,Industries not classified,0,All firms,0,All firms,2002,29593,5689517,29593,5689517,41431,901719
+99,Industries not classified,0,All firms,1,Female-owned,2002,6136,764272,6136,764272,6302,127039
+99,Industries not classified,0,All firms,2,Male-owned,2002,14212,2525974,14212,2525974,19403,414182
+99,Industries not classified,0,All firms,3,Equally male-/female-owned,2002,2729,389825,2729,389825,4976,63639
+99,Industries not classified,0,All firms,4,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",2002,1890,1438027,1890,1438027,6602,249678
+99,Industries not classified,20,Hispanic or Latino,0,All firms,2002,1166,250584,1166,250584,1517,39486
+99,Industries not classified,20,Hispanic or Latino,1,Female-owned,2002,289,149050,289,149050,930,24916
+99,Industries not classified,20,Hispanic or Latino,2,Male-owned,2002,621,D,621,D,f,D
+99,Industries not classified,20,Hispanic or Latino,3,Equally male-/female-owned,2002,S,D,S,D,b,D
+99,Industries not classified,29,Not Hispanic or Latino,0,All firms,2002,21910,3429487,21910,3429487,29165,565375
+99,Industries not classified,29,Not Hispanic or Latino,1,Female-owned,2002,5847,615223,5847,615223,5372,102123
+99,Industries not classified,29,Not Hispanic or Latino,2,Male-owned,2002,13590,D,13590,D,j,D
+99,Industries not classified,29,Not Hispanic or Latino,3,Equally male-/female-owned,2002,2473,D,2473,D,h,D
+99,Industries not classified,30,White,0,All firms,2002,20691,D,20691,D,k,D
+99,Industries not classified,30,White,1,Female-owned,2002,5348,D,5348,D,i,D
+99,Industries not classified,30,White,2,Male-owned,2002,12881,2300866,12881,2300866,18128,377706
+99,Industries not classified,30,White,3,Equally male-/female-owned,2002,2462,D,2462,D,h,D
+99,Industries not classified,40,Black or African American,0,All firms,2002,1012,115244,1012,115244,860,18891
+99,Industries not classified,40,Black or African American,1,Female-owned,2002,428,D,428,D,e,D
+99,Industries not classified,40,Black or African American,2,Male-owned,2002,486,69124,486,69124,461,11287
+99,Industries not classified,40,Black or African American,3,Equally male-/female-owned,2002,97,D,97,D,b,D
+99,Industries not classified,50,American Indian and Alaska Native,0,All firms,2002,112,9024,112,9024,64,1471
+99,Industries not classified,50,American Indian and Alaska Native,1,Female-owned,2002,76,D,76,D,b,D
+99,Industries not classified,50,American Indian and Alaska Native,2,Male-owned,2002,36,D,36,D,b,D
+99,Industries not classified,50,American Indian and Alaska Native,3,Equally male-/female-owned,2002,0,0,0,0,0,0
+99,Industries not classified,60,Asian,0,All firms,2002,1201,207783,1201,207783,1555,33713
+99,Industries not classified,60,Asian,1,Female-owned,2002,337,53206,337,53206,249,9089
+99,Industries not classified,60,Asian,2,Male-owned,2002,S,D,S,D,f,D
+99,Industries not classified,60,Asian,3,Equally male-/female-owned,2002,S,D,S,D,f,D
+99,Industries not classified,70,Native Hawaiian and Other Pacific Islander,0,All firms,2002,S,D,S,D,b,D
+99,Industries not classified,70,Native Hawaiian and Other Pacific Islander,1,Female-owned,2002,0,0,0,0,0,0
+99,Industries not classified,70,Native Hawaiian and Other Pacific Islander,2,Male-owned,2002,S,D,S,D,b,D
+99,Industries not classified,70,Native Hawaiian and Other Pacific Islander,3,Equally male-/female-owned,2002,0,0,0,0,0,0
+99,Industries not classified,98,"Publicly held and other firms not classifiable by gender, Hispanic or Latino origin, and race",0,All firms,2002,1890,1438027,1890,1438027,6602,249678

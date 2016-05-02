@@ -7,13 +7,17 @@
     <!-- CSS libraries -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
+    <!--<link rel="stylesheet" href="css/fsvs.css">-->
 
     <!-- Custom CSS code -->
     <link rel="stylesheet" href="css/styleW.css">
     <link rel="stylesheet" href="css/styleT.css">
-    <link rel="stylesheet" href="css/styleT.css">
-    <link href="css/style.css" media="all" rel="stylesheet" type="text/css" />
 
+     <!--Other custom style stuff -->
+    <link href="css/style.css" media="all" rel="stylesheet" type="text/css" />
+    <!--<script src="code.jquery.com/jquery-1.11.0.min.js"></script>-->
+    <!--<script src="code.jquery.com/jquery-migrate-1.2.1.min.js"></script>-->
+    <!--<script src="js/fsvs.js"></script>-->
 </head>
 <body>
 <header>
@@ -55,62 +59,60 @@
             <!--<span class="glyphicon glyphicon-chevron-right"></span>-->
         <!--</a>-->
     <!--</div>&lt;!&ndash; featured carousel &ndash;&gt;-->
-    <!--<div id="myCarousel" class="carousel slide" data-ride="carousel">-->
-        <!--&lt;!&ndash; Indicators &ndash;&gt;-->
-        <!--<ol class="carousel-indicators">-->
-            <!--<li data-target="#myCarousel" data-slide-to="0" class="active"></li>-->
-            <!--<li data-target="#myCarousel" data-slide-to="1"></li>-->
-            <!--<li data-target="#myCarousel" data-slide-to="2"></li>-->
-            <!--<li data-target="#myCarousel" data-slide-to="3"></li>-->
-        <!--</ol>-->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
 
-        <!--&lt;!&ndash; Wrapper for slides &ndash;&gt;-->
-        <!--<div class="carousel-inner" role="listbox">-->
-            <!--<div class="item active">-->
-                <!--<img src="img/boardroom.jpg" alt="boardroom">-->
-                <!--<div class="carousel-caption">-->
-                    <!--<h3>Pie Chart</h3>-->
-                    <!--<p></p>-->
-                <!--</div>-->
-            <!--</div>-->
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img src="img/j.png" alt="Chania">
+                <div class="carousel-caption">
+                    <h3>Joshua</h3>
+                    <p>Run For Your Life.</p>
+                </div>
+            </div>
 
-            <!--<div class="item">-->
-                <!--<img src="img/t.png" alt="Chania">-->
-                <!--<div class="carousel-caption">-->
-                    <!--<h3 class="carousal-word">Line Chart</h3>-->
-                    <!--<p></p>-->
-                <!--</div>-->
-            <!--</div>-->
+            <div class="item">
+                <img src="img/t.png" alt="Chania">
+                <div class="carousel-caption">
+                    <h3>Tajay</h3>
+                    <p>I See You!</p>
+                </div>
+            </div>
 
-            <!--<div class="item">-->
-                <!--<img src="img/w.png" alt="Flower">-->
-                <!--<div class="carousel-caption">-->
-                    <!--<h3>Stacked Bar Chart</h3>-->
-                    <!--<p></p>-->
-                <!--</div>-->
-            <!--</div>-->
+            <div class="item">
+                <img src="img/w.png" alt="Flower">
+                <div class="carousel-caption">
+                    <h3>Will</h3>
+                    <p>The Danger.</p>
+                </div>
+            </div>
 
-        <!--</div>-->
+        </div>
 
-        <!--&lt;!&ndash; Left and right controls &ndash;&gt;-->
-        <!--<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">-->
-            <!--<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>-->
-            <!--<span class="sr-only">Previous</span>-->
-        <!--</a>-->
-        <!--<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">-->
-            <!--<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>-->
-            <!--<span class="sr-only">Next</span>-->
-        <!--</a>-->
-    <!--</div>-->
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
 </header>
-<div id="main">
+<div>
 
     <div class="container-fluid">
         <div id="heading" class="row">
-            <h1>Firms, Revenue, and Number of Employees by Social Demographic of Business Owner in the U.S.</h1>
+            <h1>Firms, Revenue, and Number of Employees by Social Demographic of Business Owner</h1>
         </div>
-        <p> This stacked bar chart shows the number of firms, employees, and revenue belonging to businesses owned by each
-        given social demographic in the U.S. for the given year. Each segment in each stack represents one industry. Hover for details!</p>
 
         <div id="selectors" class="row" style="margin-left: 20px; margin-top: 10px;">
             <select id="demographic">
@@ -124,11 +126,13 @@
                 <option value="revenue">Revenue</option>
                 <option value="employees">Employees</option>
             </select>
+
             <select id="year">
                 <option value="2012">2012</option>
                 <option value="2007">2007</option>
             </select>
             <button type="button" id="log" value="log">Switch to Log view</button>
+
         </div>
         <div id="stacked-bar-chart" class="row"></div>
 
@@ -136,7 +140,15 @@
     <div class="page" id="stacked-bar-chart-info">
         <div class="container-fluid">
             <div class="row">
-
+                <div class="stacked-bar info col-lg-12">
+                    <h3>Stacked Area Chart</h3>
+                    <p>Two roads diverged in a yellow wood,
+                        And sorry I could not travel both
+                        And be one traveler, long I stood
+                        And looked down one as far as I could
+                        To where it bent in the undergrowth;
+                    </p>
+                </div>
             </div><!-- outer row -->
         </div><!-- container -->
     </div><!-- stacked-bar-chart-info -->
@@ -145,22 +157,23 @@
 
         <div class="fa-line-chart container">
             <h1>Number of Firms by Gender, Race, and Ethnicity 2002-2012</h1>
-            <p>This line chart displays the change in number of firms, revenue, or number of employees belonging to companies owned
-            by each given social demographic in the U.S. from 2002 to 2012.</p>
             <div class="map container">
                 <form class="form-inline">
                     <div class="form-group">
-                        <select id="ranking-type">
+                        <label for="rankingType">Select</label>
+                        <label for="ranking-type"></label>
+
+                        <select class="form-control" id="ranking-type">
                             <option value="race">Race</option>
                             <option value="gender">Gender</option>
                             <option value="ethnicity">Ethnicity</option>
-                        </select>
                         </select>
                         <select id="ranking-type2">
                             <option value="firms">Firms</option>
                             <option value="revenue">Revenue</option>
                             <option value="employees">Employees</option>
                         </select>
+
                     </div>
                 </form>
                 <div id="line-chart"></div>
@@ -171,81 +184,53 @@
     <div class="page" id="line-chart-info">
         <div class="container-fluid">
             <div class="row">
+                <div class="line-chart info col-lg-12">
+                    <h3>Line Chart</h3>
+                    <p>Two roads diverged in a yellow wood,
+                        And sorry I could not travel both
+                        And be one traveler, long I stood
+                        And looked down one as far as I could
+                        To where it bent in the undergrowth;
+                    </p>
+                </div>
             </div><!-- outer row -->
         </div><!-- container -->
     </div><!-- Line-Chart-info -->
 
     <div class="container-fluid">
 
-        <div id="heading-pie" class="row">
-            <h1>Business Ownership: Proportions by Category</h1>
-        </div>
-        <p>This pie chart displays the proportion of </p>
-        <div id="pie-chart"></div>
-
-    </div>
-    <div class="page" id="pie-info">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-12">
-                    <select id="criteria" onchange="updateVisualizationj()">
+        <div class="col-md-12">
+            <h1 id="heading1">Business Ownership: Proportions by Category (2012)</h1>
+            <form class="form-inline">
+                <div class="form-group">
+                    <label for="criteria">Click Me!</label>
+                    <select class="form-control" id="criteria" onchange="updateVisualizationj()">
                         <option value="Industry">Industry</option>
                         <option value="Gender">Gender</option>
                         <option value="Race">Race</option>
                         <option value="Ethnicity">Ethnicity</option>
                     </select>
-
-                    <select id="year-pie" onchange="updateVisualizationj()">
-                        <option value="2012">2012</option>
-                        <option value="2007">2007</option>
-                        <option value="2002">2002</option>
-                    </select>
                 </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-8" id="pieChart"></div>
-                <div class="col-md-4">
-
-                    <h4 class="table">Total Number of Business in the US</h4>
-
-
-                    <div class="table">
-                        <table border="1" style="width:60%">
-                            <tr><th style="text-align: center;">Year</th><th style="text-align: center;">Number of Firms</th></tr>
-                            <tr><td>2012</td><td>27,626,360</td></tr>
-                            <tr><td>2007</td><td>27,092,908</td></tr>
-                            <tr><td>2002</td><td>22,974,655</td></tr>
-                        </table>
-                    </div>
-
-                </div>
-            </div>
-
-
+            </form>
         </div>
+        <dive id="pie-chart"></dive>
+
     </div>
-    <div id="about">
-        <div class="container">
+    <div class="page" id="pie-info">
+        <div class="container-fluid">
             <div class="row">
-                <h1>About</h1>
-                <hr class="brace">
-                <div class="col-md-6">
-                    <section>
-                        <h3>What?</h3>
-                        <p>This is a team project done by Titans - Joshua Getega, William Corbett, and Tajay Bongsa. </p>
-                    </section>
+                <div class="pie-chart-info col-lg-12">
+                    <h3>Pie Chart</h3>
+                    <p>Two roads diverged in a yellow wood,
+                        And sorry I could not travel both
+                        And be one traveler, long I stood
+                        And looked down one as far as I could
+                        To where it bent in the undergrowth;
+                    </p>
                 </div>
-                <div class="col-md-6">
-                    <section>
-                        <h3>Where?</h3>
-                        <p>The data is based on surveys done by <a href="https://www.census.gov/econ/sbo/">United States Census
-                            Bureau</a> over the years 1997, 2002, 2007, and 2012.</p>
-                        <p><a href="http://www2.census.gov/econ/sbo/97/e97cs-1.pdf">1997 Data</a> | <a href="https://www.census.gov/econ/sbo/historical.html?2002">2002 Data</a> | <a href="https://www.census.gov/econ/sbo/historical.html?2007">2007 Data</a> | <a href="https://www.census.gov/econ/sbo/getdata.html">2012 Data</a></p>
-                    </section>
-                </div>
-            </div>
-        </div>
+            </div><!-- outer row -->
+        </div><!-- container -->
+    </div><!-- stacked-bar-chart-info -->
 
     <!--<div>-->
     <!--<h2>Survey Data Sources</h2>-->
@@ -265,20 +250,20 @@
             <h1>Titans</h1>
             <div class="row">
                 <article class="service col-md-4 col-sm-6 col-xs-12">
-                    <img class="icon" src="img/joshua.png" alt="Icon">
-                    <h3>Joshua Getega</h3>
+                    <img class="icon" src="img/joshua.svg" alt="Icon">
+                    <h3>Joshua</h3>
                     <p>Harvard College</p>
                 </article>
 
                 <article class="service col-md-4 col-sm-6 col-xs-12">
-                    <img class="icon" src="img/will.png" alt="Icon">
-                    <h3>Will Corbett</h3>
+                    <img class="icon" src="img/will.svg" alt="Icon">
+                    <h3>Will</h3>
                     <p>Harvard College</p>
                 </article>
 
                 <article class="service col-md-4 col-sm-6 col-xs-12">
-                    <img class="icon" src="img/tajay.png" alt="Icon">
-                    <h3>Tajay Bongsa</h3>
+                    <img class="icon" src="img/tajay.svg" alt="Icon">
+                    <h3>Tajay</h3>
                     <p>Harvard Divinity School</p>
                 </article>
             </div><!-- row -->

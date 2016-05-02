@@ -1,0 +1,49 @@
+.arc text {
+    font: 10px sans-serif;
+    text-anchor: middle;
+}
+
+.arc path {
+    stroke: #fff;
+}
+
+#heading1 {
+    text-align: left;
+}
+
+#heading2 {
+    text-align: left;
+}
+
+.form-inline {
+    align: center;
+}
+
+#chart {
+    height: 360px;
+    position: relative;
+    width: 360px;
+}
+
+.my-tooltip {
+    background: #ffe4c4;
+    box-shadow: 0 0 5px #999999;
+    color: #333;
+    display: none;
+    font-size: 12px;
+    left: 130px;
+    padding: 10px;
+    position: absolute;
+    text-align: left;
+    top: 95px;
+    width: 120px;
+    z-index: 10;
+}
+
+.pieText {
+    font-weight: bold;
+}
+
+.table {
+    margin-left: 20px;
+}
